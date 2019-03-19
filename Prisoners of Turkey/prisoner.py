@@ -1,3 +1,9 @@
+"""
+All datas are from http://tuik.gov.tr/
+
+writer: Şammas Çölkesen
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import style
